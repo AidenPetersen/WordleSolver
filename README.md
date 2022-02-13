@@ -1,21 +1,6 @@
 # WordleSolver
-
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `wordle_solver` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:wordle_solver, "~> 0.1.0"}
-  ]
-end
+It solves wordle. This is code that you can run with
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/wordle_solver>.
-
+mix run
+```
+It's just a small script, probably won't update.
